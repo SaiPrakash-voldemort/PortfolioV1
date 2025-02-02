@@ -6,7 +6,7 @@ const NavBar = () => {
     <div className="text-lg text-white ">
       <ul className=" navbarItems">
         <li className="p-2 m-3 ">
-          <a href="https://github.com/SaiPrakash-voldemort">
+          <a href="https://github.com/SaiPrakash-voldemort" target="_blank">
             <img height="50" width="50" src={gitHubIcon}></img>
           </a>
         </li>

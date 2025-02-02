@@ -12,6 +12,7 @@ import Education from "./components/Education";
 const App = () => {
   return (
     <div className="h-full bg-stone-800 mainDiv">
+
       <Container />
       <Skills />
       <Projects />
